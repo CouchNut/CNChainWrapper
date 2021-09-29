@@ -1,0 +1,6 @@
+framework module Pods_CNChainWrapper_Example {
+  umbrella header "Pods-CNChainWrapper_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

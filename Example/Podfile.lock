@@ -1,0 +1,16 @@
+PODS:
+  - CNChainWrapper (1.0.1)
+
+DEPENDENCIES:
+  - CNChainWrapper (from `../`)
+
+EXTERNAL SOURCES:
+  CNChainWrapper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CNChainWrapper: 45984b2693fcb4da6c8ac9c34ae2821dab157e33
+
+PODFILE CHECKSUM: 5a6d2038f2035828a89afbee3047825f102c74dd
+
+COCOAPODS: 1.11.2
