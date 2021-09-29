@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'CNChainWrapper_Example' do
+  pod 'CNChainWrapper', :path => '../'
+
+  target 'CNChainWrapper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
